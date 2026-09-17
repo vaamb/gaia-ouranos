@@ -122,7 +122,7 @@ in early beta) can act as sensors and actuators anywhere in the greenhouse.
 | Repo                                                              | Role                                                                                       | License |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------- |
 | [event-dispatcher](https://github.com/vaamb/event-dispatcher)     | Broker-agnostic, Socket.IO-inspired pub/sub, extracted from Gaia, used by every component  | MIT     |
-| [gaia-validators](https://github.com/vaamb/gaia-validators)       | Shared Pydantic models: the Gaia ↔ Ouranos data transfer protocol                          | GPL-3.0 |
+| [gaia-validators](https://github.com/vaamb/gaia-validators)       | Shared Pydantic models: the Gaia ↔ Ouranos data transfer protocol                          | MIT     |
 | [sqlalchemy-wrapper](https://github.com/vaamb/sqlalchemy-wrapper) | Async SQLAlchemy helpers, with multi-database binds, used by Gaia and Ouranos              | MIT     |
 
 Each repository is versioned, tested and released on its own; what has to stay
