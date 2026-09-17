@@ -14,6 +14,12 @@ instance that has been monitoring my plants for six years. The ecosystem pages
 can be changed without logging in. The
 [about page](https://gaia-py.vaamb.dev/about) tells the full story.
 
+<p align="center">
+  <a href="docs/screenshots/home-day.png"><img src="docs/screenshots/home-day.png" width="49%" alt="The Ouranos home page, day theme"></a>
+  <a href="docs/screenshots/home-night.png"><img src="docs/screenshots/home-night.png" width="49%" alt="The Ouranos home page, night theme"></a>
+</p>
+<p align="center"><sub>The home page by day and by night: the dashboard's <em>auto</em> theme follows the sunrise and sunset over the greenhouse, not the operating system.</sub></p>
+
 [![gaia CI](https://img.shields.io/github/actions/workflow/status/vaamb/gaia/test.yml?label=Gaia)](https://github.com/vaamb/gaia/actions/workflows/test.yml)
 [![ouranos-core CI](https://img.shields.io/github/actions/workflow/status/vaamb/ouranos-core/test.yml?label=Ouranos-core)](https://github.com/vaamb/ouranos-core/actions/workflows/test.yml)
 [![event-dispatcher CI](https://img.shields.io/github/actions/workflow/status/vaamb/event-dispatcher/test.yml?label=event-dispatcher)](https://github.com/vaamb/event-dispatcher/actions/workflows/test.yml)
